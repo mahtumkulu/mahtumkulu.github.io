@@ -37,7 +37,8 @@ Altmış üç yaşında geçti Muhammet.
 <td>
 
 <pre>
-Owwal deslap baryp Haýbar dagynda,Kapyrlar ganyny saçdy Muhammet.
+Owwal deslap baryp Haýbar dagynda,
+Kapyrlar ganyny saçdy Muhammet.
 Leklaherde, Sekwan, Kabil şährinde,
 Jepa çekip dini açdy Muhammet.
 
