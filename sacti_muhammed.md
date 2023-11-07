@@ -6,10 +6,13 @@
 <tr>
 <td>
 
-```text
+```
 İlk önce varıp da Hayber dağında,
+
 Kafirler kanını saçtı Muhammet.
+
 Leklehen’de, Sekvan, Kabil şehrinde,
+
 Cefa çekip dinin açdı Muhammet.
 
 Aşık ifşa olup, aşka binince,
@@ -36,7 +39,7 @@ Altmış üç yaşında geçti Muh
 </td>
 <td>
 
-```text
+```
 Owwal deslap baryp Haýbar dagynda,
 Kapyrlar ganyny saçdy Muhammet.
 Leklaherde, Sekwan, Kabil şährinde,
