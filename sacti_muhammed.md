@@ -6,7 +6,7 @@
 <tr>
 <td>
 
-```
+<pre>
 İlk önce varıp da Hayber dağında,
 Kafirler kanını saçtı Muhammet.
 Leklehen’de, Sekvan, Kabil şehrinde,
@@ -31,7 +31,7 @@ Mahtumkulu, özge dini bozdular,
 İklim-iklim, şehir-şehir gezdiler,
 Cefa çekip, İslam dinin düzdüler.
 Altmış üç yaşında geçti Muhammet.
-```
+</pre>
 
 </td>
 <td>
