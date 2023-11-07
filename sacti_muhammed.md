@@ -6,7 +6,7 @@
 <tr>
 <td>
 
-```md
+```text
 İlk önce varıp da Hayber dağında,
 Kafirler kanını saçtı Muhammet.
 Leklehen’de, Sekvan, Kabil şehrinde,
@@ -36,7 +36,7 @@ Altmış üç yaşında geçti Muh
 </td>
 <td>
 
-```md
+```text
 Owwal deslap baryp Haýbar dagynda,
 Kapyrlar ganyny saçdy Muhammet.
 Leklaherde, Sekwan, Kabil şährinde,
