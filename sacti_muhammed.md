@@ -8,11 +8,8 @@
 
 ```
 İlk önce varıp da Hayber dağında,
-
 Kafirler kanını saçtı Muhammet.
-
 Leklehen’de, Sekvan, Kabil şehrinde,
-
 Cefa çekip dinin açdı Muhammet.
 
 Aşık ifşa olup, aşka binince,
@@ -33,7 +30,7 @@ Behişt kapısına gelip durunca,
 Mahtumkulu, özge dini bozdular,
 İklim-iklim, şehir-şehir gezdiler,
 Cefa çekip, İslam dinin düzdüler.
-Altmış üç yaşında geçti Muh
+Altmış üç yaşında geçti Muhammet.
 ```
 
 </td>
