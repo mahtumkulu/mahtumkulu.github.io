@@ -1,4 +1,4 @@
-<table border=0>
+<table>
 <tr>
 <th> SAÇTI MUHAMMET </th>
 <th> SAÇDY MUHAMMET </th>
@@ -36,9 +36,8 @@ Altmış üç yaşında geçti Muhammet.
 </td>
 <td>
 
-```
-Owwal deslap baryp Haýbar dagynda,
-Kapyrlar ganyny saçdy Muhammet.
+<pre>
+Owwal deslap baryp Haýbar dagynda,Kapyrlar ganyny saçdy Muhammet.
 Leklaherde, Sekwan, Kabil şährinde,
 Jepa çekip dini açdy Muhammet.
 
@@ -61,7 +60,7 @@ Magtymguly, özge dini bozdular,
 Yklym-yklym, şäher-şäher gezdiler,
 Jepa çekip yslam dinin düzdüler,
 Altmyş üç ýaşynda geçdi Muhammet.
-```
+</pre>
 
 </td>
 </tr>
