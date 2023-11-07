@@ -66,3 +66,6 @@ Altmyş üç ýaşynda geçdi Muhammet.
 </td>
 </tr>
 </table>
+
+### Notlar
+Mahtumkulu: Bütün Eserleri: Cilt I-II 
