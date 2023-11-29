@@ -4,3 +4,4 @@
 - [Ad İsterim (At İslarin)](ad_isterim.md)
 - [Sevmişim Seni (Söymüşem Seni)](sevmisim_seni.md)
 - [Makam Yanında](makam_yaninda.md)
+- [Başı Gerektir (Başy Gerektir)](basi_gerektir.md)
