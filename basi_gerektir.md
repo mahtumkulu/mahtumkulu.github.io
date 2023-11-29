@@ -87,5 +87,6 @@ Aýy kimin asylyşy gerekdir.
 </tr>
 </table>
 
-### Notlar
-Mahtumkulu: Bütün Eserleri: Cilt I-II 
+### Kaynak
+Mahtumkulu: Bütün Eserleri: Cilt I-II
+Magtymguly Pyragynyň Kämil Diwany
