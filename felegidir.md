@@ -108,5 +108,5 @@ Gapyl adam duzagydyr.
 </table>
 
 ### Kaynak
-Mahtumkulu: Bütün Eserleri: Cilt I-II
-Magtymguly Pyragynyň Kämil Diwany
+- Mahtumkulu: Bütün Eserleri: Cilt I-II
+- Magtymguly Pyragynyň Kämil Diwany
