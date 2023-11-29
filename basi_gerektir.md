@@ -80,7 +80,7 @@ Gurt dek girip, ýowny koý dek dagyldan,
 Magtymguly, goç ýigitler çapylyp,
 Gök damardan1 gyrmyzy ganlar sepilip,
 At salanda doňuz kimin topulyp,
-Aýy kimin asylyşy gerektir.
+Aýy kimin asylyşy gerekdir.
 </pre>
 
 </td>
