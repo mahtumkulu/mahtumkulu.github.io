@@ -7,3 +7,4 @@
 - [Başı Gerektir (Başy Gerektir)](basi_gerektir.md)
 - [Feleğidir (Pelegidir)](felegidir.md)
 - [Han Olur (Han dörär)](han_olur.md)
+- [Bir Beyan Gelir (Bir Beýan Geler)](han_olur.md)
