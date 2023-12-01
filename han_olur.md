@@ -23,7 +23,7 @@ Deccal dünyaya inende,
 Başka millet, din olur.
   
 Âşıklara ray olmaz,
-Dünya yükü tay1 olmaz,
+Dünya yükü tay olmaz,
 Gök yüzünde Ay olmaz,
 Batı yanda gün(eş) olur.
 
