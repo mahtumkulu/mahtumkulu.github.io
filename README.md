@@ -9,3 +9,4 @@
 - [Han Olur (Han Dörär)](han_olur.md)
 - [Bir Beyan Gelir (Bir Beýan Geler)](han_olur.md)
 - [Hasar Dağındadır (Hasar Dagyndadyr)](hasar_dagindadir.md)
+- [Deryayı Hal (Derýaýy Hal)](deryayi_hal.md)
