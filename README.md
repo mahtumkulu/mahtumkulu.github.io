@@ -6,5 +6,6 @@
 - [Makam Yanında](makam_yaninda.md)
 - [Başı Gerektir (Başy Gerektir)](basi_gerektir.md)
 - [Feleğidir (Pelegidir)](felegidir.md)
-- [Han Olur (Han dörär)](han_olur.md)
+- [Han Olur (Han Dörär)](han_olur.md)
 - [Bir Beyan Gelir (Bir Beýan Geler)](han_olur.md)
+- [Hasar Dağındadır (Hasar Dagyndadyr)](hasar_dagindadir.md)
