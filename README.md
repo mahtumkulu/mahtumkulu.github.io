@@ -10,3 +10,4 @@
 - [Bir Beyan Gelir (Bir Beýan Geler)](han_olur.md)
 - [Hasar Dağındadır (Hasar Dagyndadyr)](hasar_dagindadir.md)
 - [Deryayı Hal (Derýaýy Hal)](deryayi_hal.md)
+- [Bir Allhatır (Bir Allahdyr)](bir_allahtir.md)
